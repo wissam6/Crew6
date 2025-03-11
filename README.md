@@ -16,7 +16,7 @@
 ## Logistic Regression
 [Logistic Regression Model.ipynb](https://colab.research.google.com/drive/1K101qqu5vATsnRwgqGY63Hl5BCs12wo7)
 
-## Random Forest (we did not include this in the slides)
+## Random Forest (we did not include this in the slides) || Also it uses pyxai that only runs on linux os or google colab
 [random-forest-pyxai.ipynb](https://colab.research.google.com/drive/1OJUOI9ew5-52GaxvGNb5rRAP9rZCyj-A)
 
 [Random-forest.ipynb](https://colab.research.google.com/drive/1ygx6V8vsfdKWL12oSxLfBYwAnEwbD4zZ)
