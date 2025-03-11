@@ -2,9 +2,11 @@
 
 ## Installation
 
-`sh pip install -r requirements.txt`
+- `sh pip install -r requirements.txt`
+- Graphviz - if you are running the notebooks locally, it is required to install this package
+[https://graphviz.org/download/](https://graphviz.org/download/)
 
-## All the code is also available on Google Colab. Please use them in case of any errors.
+## All the code is also available on Google Colab. Please use them in case of any local errors.
 
 ## Data Processing and Inputing
 [Data_PreProcessing+ imputing.ipynb](https://colab.research.google.com/drive/1MsgEz36U6vRvPC0TySU2I3qEoVhtrG-O?usp=drive_open)
@@ -24,6 +26,3 @@
 [random-forest-pyxai.ipynb](https://colab.research.google.com/drive/1OJUOI9ew5-52GaxvGNb5rRAP9rZCyj-A)
 
 [Random-forest.ipynb](https://colab.research.google.com/drive/1ygx6V8vsfdKWL12oSxLfBYwAnEwbD4zZ)
-
-## Graphviz - if you are running the notebooks locally, it is required to install this package
-[https://graphviz.org/download/](https://graphviz.org/download/)
