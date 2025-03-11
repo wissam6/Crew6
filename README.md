@@ -1,5 +1,9 @@
 # XAI-Crew 6
 
+## Installation
+
+`sh pip install -r requirements.txt`
+
 ## All the code is also available on Google Colab. Please use them in case of any errors.
 
 ## Data Processing and Inputing
