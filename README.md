@@ -1,4 +1,4 @@
-# XAI-group13
+# XAI-Crew 6
 
 ## All the code is also available on Google Colab. Please use them in case of any errors.
 
